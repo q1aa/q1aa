@@ -3,12 +3,12 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
 <a href="mailto:jul1n@icloud.com" target="_blank">
-	<img src="https://icons.julin.dev/icons?i=applemail&amp;size=30" align="center">
+	<img src="https://icons.julin.dev/icons?i=applemailsize=30" align="center">
 	jul1n@icloud.com
 </p>
 <p align="center" >
 	<a href="https://julin.dev" target="_blank" style="border-radius:10%">
-		<img src="https://icons.julin.dev/icons?i=www&amp;size=30&bg=fff" align="center">
+		<img src="https://icons.julin.dev/icons?i=wwwwhsize=30" align="center">
 		julin.dev
     </a>
 </p>
