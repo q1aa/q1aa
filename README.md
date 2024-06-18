@@ -8,14 +8,14 @@
 </p>
 <p align="center" >
 	<a href="https://julin.dev" target="_blank">
-		<img src="https://icons.julin.dev/icons?i=www&amp;size=30" align="center">
+		<img src="https://icons.julin.dev/icons?i=www&amp;size=30&bg=fff" align="center">
 		julin.dev
     </a>
 </p>
 
 <h3 align="center">
 Languages and Tools:
-    <img align="center" src="https://icons.julin.dev/icons?i=apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb&size=40&space=20" alt="apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb&bg=fff"/>
+    <img align="center" src="https://icons.julin.dev/icons?i=apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb&size=40&space=20" alt="apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb"/>
 </h3>
 
 ```javascript
