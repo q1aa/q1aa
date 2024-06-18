@@ -7,7 +7,7 @@
 	jul1n@icloud.com
 </p>
 <p align="center" >
-	<a href="https://julin.dev" target="_blank">
+	<a href="https://julin.dev" target="_blank" style="border-radius:10%">
 		<img src="https://icons.julin.dev/icons?i=www&amp;size=30&bg=fff" align="center">
 		julin.dev
     </a>
