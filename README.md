@@ -15,7 +15,7 @@
 
 <h3 align="center">
 Languages and Tools:
-    <img align="center" src="https://icons.julin.dev/icons?i=apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb&size=40&space=20" alt="apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb"/>
+    <img align="center" src="https://icons.julin.dev/icons?i=apple,windows,vsc,visualstudio,html,css,cs,js,ts,express,dotnet,azure,github,nodejs,mongodb&size=40&space=20" alt="windows,vsc,visualstudio,html,css,cs,js,ts,dotnet,azure,nodejs,mongodb"/>
 </h3>
 
 ```javascript
