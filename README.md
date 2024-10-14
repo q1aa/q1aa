@@ -3,7 +3,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
 <a href="mailto:jul1n@icloud.com" target="_blank">
-	jul1n@icloud.com
+	info@julin.dev
 </p>
 <p align="center" >
 	<a href="https://julin.dev" target="_blank" style="border-radius:10%">
