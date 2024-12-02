@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Languages and Tools:
-    <img align="center" src="https://icons.julin.dev/icons?i=vsc,visualstudio,html,css,cs,js,ts,dotnet,azure,nodejs,mongodb&size=40&space=20" alt="windows,vsc,visualstudio,html,css,cs,js,ts,dotnet,azure,nodejs,mongodb"/>
+   [![My Skills](https://skillicons.dev/icons?i=cs,ts,js,html,css,react,express,vscode,vs)](https://skillicons.dev)
 </h3>
 
 ```javascript
