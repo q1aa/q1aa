@@ -1,11 +1,5 @@
 <h1 align="center">Fullstack Developer 👋 (In ❤️ with backend)</h1>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center" >
-<a href="mailto:info@julin.dev" target="_blank">
-	info@julin.dev
-</p>
-
 <h3 align="center">
 Languages and Tools:
     <img align="center" src="https://icons.julin.dev/icons?i=vsc,visualstudio,html,css,cs,js,ts,dotnet,azure,nodejs,mongodb&size=40&space=20" alt="windows,vsc,visualstudio,html,css,cs,js,ts,dotnet,azure,nodejs,mongodb"/>
