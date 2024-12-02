@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Languages and Tools:
-   [![My Skills](https://skillicons.dev/icons?i=cs,ts,js,html,css,react,express,vscode,vs)](https://skillicons.dev)
+   <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,react,express,vscode,vs">
 </h3>
 
 ```javascript
