@@ -1,7 +1,6 @@
 <h1 align="center">Fullstack Developer 👋 (In ❤️ with backend)</h1>
 
 <h3 align="center">
-Languages and Tools:
    <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,react,express,vscode,vs">
 </h3>
 
