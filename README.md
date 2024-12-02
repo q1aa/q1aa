@@ -5,11 +5,6 @@
 <a href="mailto:info@julin.dev" target="_blank">
 	info@julin.dev
 </p>
-<p align="center" >
-	<a href="https://julin.dev" target="_blank" style="border-radius:10%">
-		julin.dev
-    </a>
-</p>
 
 <h3 align="center">
 Languages and Tools:
